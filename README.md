@@ -71,7 +71,7 @@ I enjoy turning ideas into real-world applications — from creative websites an
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
----
+
 
 ## 🚀 Featured Projects
 
