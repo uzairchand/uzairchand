@@ -44,7 +44,8 @@ I enjoy turning ideas into real-world applications — from creative websites an
 ### 🎨 Animation & UI
 
 <p>
-  <img src="[https://skillicons.dev/icons?i=gsap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6tilk0mchxlz5UJg6-zEYZm2lpJJGkGQlea0r3iUp9A&s=10)" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
 **Also worked with:** Framer Motion · Responsive Design · Modern UI/UX
