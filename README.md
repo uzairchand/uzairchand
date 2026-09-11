@@ -66,30 +66,21 @@ I enjoy turning ideas into real-world applications — from creative websites an
 My development journey has grown step by step, starting from web fundamentals and progressing toward full-stack development.
 
 ```text
-HTML
-  ↓
-CSS
-  ↓
+
+HTML / CSS
+     ↓
 Tailwind CSS
-  ↓
+     ↓
 JavaScript
-  ↓
+     ↓
 React.js
-  ↓
-React Router
-  ↓
-API Integration
-  ↓
+     ↓
 Next.js
-  ↓
-Node.js
-  ↓
-Express.js
-  ↓
-MongoDB
-  ↓
-REST APIs
-  ↓
+     ↓
+Node.js / Express.js
+     ↓
+MongoDB / REST APIs
+     ↓
 Full-Stack Development
 ```
 
