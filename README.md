@@ -101,7 +101,7 @@ Along the way, I have also worked with **Vite, GSAP, Framer Motion, Git, GitHub,
 
 ### 💻 Personal Portfolio
 
-A modern personal portfolio showcasing my skills, projects, services, and development journey with interactive sections and smooth animations.
+Modern personal portfolio with interactive sections, responsive design, and smooth animations.
 
 **React · Tailwind CSS · GSAP · Framer Motion · React Router**
 
@@ -109,15 +109,15 @@ A modern personal portfolio showcasing my skills, projects, services, and develo
 
 ### 🍕 SliceHub — Pizza Shop POS
 
-A complete pizza shop order-taking and POS system designed for managing tables, orders, menu items, payments, and staff roles.
+POS system for managing tables, orders, menu items, payments, and staff roles.
 
-**React · JavaScript · Tailwind CSS**
+**React · Tailwind CSS · Node.js · Express.js · MongoDB · REST API**
 
 ---
 
 ### ☕ Brew & Bean — Animated Coffee Website
 
-A modern coffee-themed website focused on premium visual design, smooth animations, responsive layouts, and interactive user experiences.
+Animated coffee website with a premium design, responsive layout, and interactive user experience.
 
 **Next.js · React · Tailwind CSS · Framer Motion**
 
@@ -125,7 +125,7 @@ A modern coffee-themed website focused on premium visual design, smooth animatio
 
 ### 💧 Water Plant Website
 
-A premium corporate website concept for a mineral water and filtration company, featuring modern sections, animations, trust elements, and responsive design.
+Corporate website for a water filtration company with modern sections, animations, and responsive design.
 
 **React · Tailwind CSS · Framer Motion · GSAP**
 
@@ -133,11 +133,9 @@ A premium corporate website concept for a mineral water and filtration company, 
 
 ### ⚛️ React Projects
 
-A collection of React applications built while developing strong foundations in component architecture, props, state management, events, forms, conditional rendering, API integration, and reusable components.
+Collection of React applications covering state management, forms, CRUD operations, API integration, and reusable components.
 
 **React · JavaScript · React Router · REST APIs**
-
----
 
 ## 📊 GitHub Stats
 
