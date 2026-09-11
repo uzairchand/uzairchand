@@ -1,60 +1,145 @@
-# Hi, I'm Uzair Chand 👋
+<h1 align="center">Hi 👋, I'm Uzair Chand</h1>
 
-### Full-Stack React Developer
+<h3 align="center">
+  Full-Stack React Developer
+</h3>
 
-I build modern, responsive and interactive web experiences using React, Next.js and modern web technologies.
+<p align="center">
+  I build modern, responsive and interactive web experiences
+  with React, Next.js and modern web technologies.
+</p>
 
----
-
+<p align="center">
+  <a href="https://github.com/uzairchand">
+    <img src="https://img.shields.io/github/followers/uzairchand?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/uzairchand">
+    <img src="https://img.shields.io/github/stars/uzairchand?label=Stars&style=for-the-badge" />
+  </a>
+</p>
 ## 👨‍💻 About Me
 
-- 💻 Full-Stack React Developer
-- ⚛️ Focused on React.js and Next.js
-- 🚀 Building modern and interactive web applications
-- 🎨 Passionate about clean UI/UX and animations
-- 🌱 Currently learning and building with Node.js
-- 📍 Faisalabad, Pakistan
+I'm Uzair Chand, a developer focused on building modern web applications
+with clean interfaces, smooth interactions and practical functionality.
 
----
-
+- ⚛️ React.js Developer
+- ▲ Building with Next.js
+- 🟢 Learning Node.js & backend development
+- 🎨 Interested in modern UI/UX and animations
+- 🚀 Building real-world projects
+- 📚 Always learning new technologies
 ## 🛠️ Tech Stack
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
+</p>
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🚀 Featured Projects
-
-Coming soon...
-
----
-
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
 ## 🌱 Currently Learning
 
 ```text
 Node.js
+   ↓
 Express.js
+   ↓
 MongoDB
-Next.js
-Backend Development
+   ↓
+REST APIs
+   ↓
+Full-Stack Development
+
+Isse recruiter ko clearly pata chalega ke tum **frontend se full-stack ki taraf move kar rahe ho.**
+
+---
+
+# 5. Featured Projects
+
+Abhi fake projects add nahi karenge.
+
+Temporary:
+
+```md
+## 🚀 Featured Projects
+
+### ☕ Brew & Bean
+
+Animated coffee website built with Next.js.
+
+**Tech:** Next.js • Tailwind CSS • Framer Motion
+
+---
+
+### 🍕 SliceHub POS
+
+Pizza shop order-taking and POS management system.
+
+**Tech:** React.js • Tailwind CSS • JavaScript
+
+---
+
+### 💧 Water Plant Website
+
+Modern corporate website for a mineral water company.
+
+**Tech:** React.js • Tailwind CSS • Framer Motion
+
+---
+
+### 💻 Personal Portfolio
+
+Personal developer portfolio with modern animations and interactive UI.
+
+**Tech:** React.js • Tailwind CSS • GSAP
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=uzairchand&show_icons=true&hide_border=true&rank_icon=github" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uzairchand&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairchand&layout=compact&hide_border=true" />
+</p>
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uzairchand&hide_border=true" />
+</p>
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/uzairchand">
+    GitHub
+  </a>
+  •
+  <a href="https://uzairchandportfolio.netlify.app/">
+    Portfolio
+  </a>
+  •
+  <a href="YOUR_LINKEDIN_URL">
+    LinkedIn
+  </a>
+</p>
+<br />
+
+<p align="center">
+  <b>Build. Learn. Improve. Repeat. 🚀</b>
+</p>
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
