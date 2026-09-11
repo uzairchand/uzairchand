@@ -15,15 +15,15 @@ I enjoy turning ideas into real-world applications — from creative websites an
 
 ## 🚀 What I Build
 
-* Modern React applications
-* Full-stack web applications
-* Interactive dashboards
-* Business websites
-* Admin & management systems
-* POS & order management systems
-* Animated and creative websites
-* REST API based applications
-* Responsive user interfaces
+- Full-stack web applications
+- SaaS platforms
+- Modern React applications
+- Interactive & animated websites
+- Business websites
+- Admin dashboards
+- POS & order management systems
+- REST API based applications
+- Responsive user interfaces
 
 ---
 
@@ -35,11 +35,21 @@ I enjoy turning ideas into real-world applications — from creative websites an
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
 </p>
 
+### Routing & State
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+**React Router · Context API · useState · useEffect**
+
 ### Animation & Creative Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=gsap" />
 </p>
+
+**GSAP · Framer Motion · Lenis · Scroll Animations**
 
 ### Backend
 
@@ -47,45 +57,39 @@ I enjoy turning ideas into real-world applications — from creative websites an
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
+**Node.js · Express.js · REST APIs · API Integration**
+
 ### Database
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-### Tools & Services
+**MongoDB · CRUD Operations**
+
+### Authentication & Security
+
+**JWT · Authentication · Protected Routes**
+
+### Forms & Communication
+
+**EmailJS · Form Handling · API Integration**
+
+### Payments
+
+**Stripe · PayPal**
+
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,netlify,railway,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
 </p>
 
----
+### Deployment & Services
 
-## 📚 My Learning Journey
-
-My development journey has grown step by step, starting from web fundamentals and progressing toward full-stack development.
-
-```text
-
-HTML / CSS
-     ↓
-Tailwind CSS
-     ↓
-JavaScript
-     ↓
-React.js
-     ↓
-Next.js
-     ↓
-Node.js / Express.js
-     ↓
-MongoDB / REST APIs
-     ↓
-Full-Stack Development
-```
-
-Along the way, I have also worked with **Vite, GSAP, Framer Motion, Git, GitHub, responsive design, forms, CRUD operations, authentication, API integration, and modern UI development**.
-
+<p>
+  <img src="https://skillicons.dev/icons?i=netlify,vercel,railway,cloudinary" />
+</p>
 ---
 
 ## 🚀 Featured Projects
@@ -136,6 +140,7 @@ Collection of React applications covering state management, forms, CRUD operatio
     height="170"
     alt="Uzair's GitHub Stats"
   />
+
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairchand&layout=compact&hide_border=true&theme=transparent"
     height="170"
@@ -144,18 +149,6 @@ Collection of React applications covering state management, forms, CRUD operatio
 </p>
 
 ---
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=uzairchand&hide_border=true&theme=transparent"
-    alt="Uzair's GitHub Streak"
-  />
-</p>
-
----
-
 ## 🎯 Development Journey
 
 ```text
@@ -178,9 +171,21 @@ Node.js + Express
 MongoDB + REST APIs
        ↓
 Full-Stack Development
-```
+---
+---
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=uzairchand&hide_border=true&theme=transparent"
+    alt="Uzair's GitHub Streak"
+  />
+</p>
 
 ---
+
+
+```
 
 ## 💡 What I Believe
 
