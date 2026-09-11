@@ -1,18 +1,10 @@
 <p align="center">
   <img src="banner.jpg" alt="Uzair Chand GitHub Banner" width="100%">
 </p>
-# Hi, I'm Uzair Chand 👋
+Hi, I'm Uzair Chand 👋
+Full-Stack React Developer 🚀
 
-### Full-Stack React Developer 🚀
-
-I build modern, responsive, and interactive web applications with a focus on clean interfaces, smooth user experiences, and practical functionality.
-
-### 🧑‍💻 My Learning Journey
-
-My development journey started with the fundamentals of the web and gradually grew into full-stack development.
-
-**HTML → CSS → Tailwind CSS → JavaScript → React.js → Next.js → Node.js → Express.js → MongoDB → REST APIs**
-
+I build modern, responsive, and interactive web applications with a strong focus on clean UI, smooth user experiences, and practical functionality.
 Along the way, I also learned and worked with **Git, GitHub, Vite, GSAP, Framer Motion, React Router, and modern frontend development tools**.
 
 I enjoy turning ideas into real-world projects, from interactive portfolios and animated websites to dashboards, POS systems, and full-stack applications.
