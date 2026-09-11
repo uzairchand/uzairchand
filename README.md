@@ -1,9 +1,9 @@
 <p align="center">
   <img src="banner.jpg" alt="Uzair Chand GitHub Banner" width="100%">
 </p>
-# Hi, I'm Uzair Chand 👋
+<h1 align="center">Hi, I'm Uzair Chand 👋</h1>
 
-### Full-Stack React Developer 🚀
+<h3 align="center">Full-Stack React Developer 🚀</h3>
 
 I build modern, responsive, and interactive web applications with a strong focus on clean UI, smooth animations, reusable components, and practical functionality.
 
