@@ -1,1 +1,3 @@
-<h1>hi</h1>
+<p align="center">
+  <img src="" alt="Uzair Chand GitHub Banner" width="100%">
+</p>
