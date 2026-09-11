@@ -116,17 +116,12 @@ Collection of React applications covering state management, forms, CRUD operatio
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=uzairchand&show_icons=true&hide_border=true&theme=transparent"
-    height="170"
-    alt="Uzair's GitHub Stats"
-  />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzairchand&theme=github_dark" width="100%" />
+</p>
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uzairchand&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-    alt="Uzair's Top Languages"
-  />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzairchand&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzairchand&theme=github_dark" height="180" />
 </p>
 
 ---
