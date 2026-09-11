@@ -44,7 +44,7 @@ I enjoy turning ideas into real-world applications — from creative websites an
 ### 🎨 Animation & UI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=gsap" />
+  <img src="[https://skillicons.dev/icons?i=gsap](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6tilk0mchxlz5UJg6-zEYZm2lpJJGkGQlea0r3iUp9A&s=10)" />
 </p>
 
 **Also worked with:** Framer Motion · Responsive Design · Modern UI/UX
@@ -72,8 +72,6 @@ I enjoy turning ideas into real-world applications — from creative websites an
 <p>
   <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
-
-**Also worked with:** Cloudinary · EmailJS · Stripe · PayPal
 ---
 
 ## 🚀 Featured Projects
