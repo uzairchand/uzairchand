@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="" alt="Uzair Chand GitHub Banner" width="100%">
+  <img src="banner.jpg" alt="Uzair Chand GitHub Banner" width="100%">
 </p>
