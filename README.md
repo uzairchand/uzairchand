@@ -113,17 +113,6 @@ Collection of React applications covering state management, forms, CRUD operatio
 
 **React · JavaScript · React Router · REST APIs**
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uzairchand&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=uzairchand&theme=github_dark" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=uzairchand&theme=github_dark" height="180" />
-</p>
-
 ---
 ## 🎯 Development Journey
 
