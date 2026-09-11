@@ -155,8 +155,6 @@ Node.js + Express
 MongoDB + REST APIs
        ↓
 Full-Stack Development
----
-
 
 ```
 
@@ -179,3 +177,15 @@ I believe in **learning by building** — taking ideas, turning them into projec
 MongoDB
   ↓
 REST APIs
+
+## 🤝 Let's Work Together
+
+- 🌐 **[Portfolio](https://uzairchandportfolio.netlify.app/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/uzair-chand-889418356/)**
+- 🐙 **[GitHub](https://github.com/uzairchand)**
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
+🚀 **Keep Building. Keep Learning.**
