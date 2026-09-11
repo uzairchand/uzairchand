@@ -7,14 +7,20 @@
 
 I build modern, responsive, and interactive web applications with a focus on clean interfaces, smooth user experiences, and practical functionality.
 
-## 🧑‍💻 My Learning Journey
+### 🧑‍💻 My Learning Journey
 
 My development journey started with the fundamentals of the web and gradually grew into full-stack development.
 
-```text
-HTML
-  ↓
-CSS
+**HTML → CSS → Tailwind CSS → JavaScript → React.js → Next.js → Node.js → Express.js → MongoDB → REST APIs**
+
+Along the way, I also learned and worked with **Git, GitHub, Vite, GSAP, Framer Motion, React Router, and modern frontend development tools**.
+
+I enjoy turning ideas into real-world projects, from interactive portfolios and animated websites to dashboards, POS systems, and full-stack applications.
+
+I believe the best way to learn development is by **building, experimenting, solving problems, and continuously improving**.
+
+🚀 **Learn. Build. Experiment. Create.**
+
   ↓
 Tailwind CSS
   ↓
