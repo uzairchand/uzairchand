@@ -29,67 +29,51 @@ I enjoy turning ideas into real-world applications — from creative websites an
 
 ## 🛠 Tech Stack
 
-### Frontend
+### 👨‍💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python" />
 </p>
 
-### Routing & State
+### ⚛️ Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" />
 </p>
 
-**React Router · Context API · useState · useEffect**
-
-### Animation & Creative Development
+### 🎨 Animation & UI
 
 <p>
   <img src="https://skillicons.dev/icons?i=gsap" />
 </p>
 
-**GSAP · Framer Motion · Lenis · Scroll Animations**
+**Also worked with:** Framer Motion · Responsive Design · Modern UI/UX
 
-### Backend
+### ⚙️ Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-**Node.js · Express.js · REST APIs · API Integration**
-
-### Database
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql" />
 </p>
 
-**MongoDB · CRUD Operations**
-
-### Authentication & Security
-
-**JWT · Authentication · Protected Routes**
-
-### Forms & Communication
-
-**EmailJS · Form Handling · API Integration**
-
-### Payments
-
-**Stripe · PayPal**
-
-### Development Tools
+### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,netlify,vercel,railway" />
 </p>
 
-### Deployment & Services
+### ☁️ Services
 
 <p>
-  <img src="https://skillicons.dev/icons?i=netlify,vercel,railway,cloudinary" />
+  <img src="https://skillicons.dev/icons?i=cloudflare" />
 </p>
+
+**Also worked with:** Cloudinary · EmailJS · Stripe · PayPal
 ---
 
 ## 🚀 Featured Projects
