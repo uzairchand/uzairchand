@@ -156,17 +156,6 @@ MongoDB + REST APIs
        ↓
 Full-Stack Development
 ---
----
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=uzairchand&hide_border=true&theme=transparent"
-    alt="Uzair's GitHub Streak"
-  />
-</p>
-
----
 
 
 ```
@@ -179,33 +168,14 @@ I believe in **learning by building** — taking ideas, turning them into projec
 
 ---
 
-## 🤝 Let's Connect
+## 🔭 Currently Working On
 
-<p>
-  <a href="https://github.com/uzairchand">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-
-  <a href="https://uzairchandportfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-</p>
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-🚀 **Build. Learn. Create. Improve.**
-
-  ↓
-React.js
-  ↓
-Next.js
-  ↓
-Node.js
-  ↓
-Express.js
-  ↓
+- 🚀 Building full-stack web applications
+- ⚛️ Developing React & Next.js projects
+- ⚙️ Building backend APIs with Node.js & Express
+- 🗄️ Working with MongoDB & REST APIs
+- 🏢 Developing SaaS and business management systems
+- 🎨 Creating modern interactive & animated websites
 MongoDB
   ↓
 REST APIs
