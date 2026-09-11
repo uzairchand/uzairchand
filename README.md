@@ -48,8 +48,6 @@ I enjoy turning ideas into real-world applications — from creative websites an
   <img src="https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-**Also worked with:** Responsive Design · Modern UI/UX · Smooth Scrolling
-
 ### ⚙️ Backend Development
 
 <p>
